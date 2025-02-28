@@ -52,7 +52,8 @@ With this problem, I also developed a simple front end for you to test that beck
    ```sh
    npm install
    ```
-3. Ensure `nodemon` is installed for automatic reloading:
+3. Download the .env file from the email and put it in the directory of the problem.
+4. Ensure `nodemon` is installed for automatic reloading:
    ```sh
    npm install -g nodemon
    ```
